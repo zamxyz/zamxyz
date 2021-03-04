@@ -1,7 +1,7 @@
 
-**_________________________________________________**
+**_______________________________________________**
 # **_*♛WELCOME TO MY GITHUB♛*_**
-
+**_*My Team*_**
 ![FB_IMG_15917058795814626](https://user-images.githubusercontent.com/79139059/110004846-72ae2780-7d4a-11eb-9c31-c2555f1a3d68.jpg)
 
 **_*Anonymous Cyber Muslim Idnonesia*_**
@@ -39,7 +39,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=encrypt&theme=vision-friendly-dark)](https://github.com/zamxyz/encrypt)
 
 
-# *Language*
+# *Languages*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamxyz&theme=shades-of-purple)
- 
+# *Thanks For Watching!!*
 ![FB_IMG_15917053785165117](https://user-images.githubusercontent.com/79139059/110002974-86588e80-7d48-11eb-9525-e11326909389.jpg)
