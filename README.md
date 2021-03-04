@@ -23,10 +23,10 @@ __██____██___
 ⚡ Fun fact: …
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zamxyz&theme=outrun&show_icons=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=Acmi&theme=shades-of-purple)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=crack&theme=shades-of-purple)](https://github.com/zamxyz/crack)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=terkey&theme=shades-of-purple)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=encrypt&theme=shades-of-purple)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=Acmi&theme=shades-of-purple)](https://github.com/zamxyz/Acmi)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=crack&theme=shades-of-purple)](https://github.com/zamxyz/crack)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=terkey&theme=shades-of-purple)](https://github.com/zamxyz/terkey)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=encrypt&theme=shades-of-purple)](https://github.com/zamxyz/encrypt)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zamxyz&theme=vision-friendly-dark)
 
 
