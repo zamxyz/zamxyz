@@ -1,10 +1,10 @@
 
 **____________________________________________**
 # **_*♛WELCOME TO MY GITHUB♛*_**
-　　　　　　　　　　　　　　　　**_*MY TEAM*_**
+　　　　　　　　　**_*MY TEAM*_**
 ![FB_IMG_15917058795814626](https://user-images.githubusercontent.com/79139059/110004846-72ae2780-7d4a-11eb-9c31-c2555f1a3d68.jpg)
 
-　　　　　　　　**_*Anonymous Cyber Muslim Idnonesia*_**
+　　　　　**_*Anonymous Cyber Muslim Idnonesia*_**
 
 
 
@@ -41,5 +41,5 @@
 
 # *Languages*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamxyz&theme=shades-of-purple)
-　　　　　　　　 *Thanks For Watching!!*
+　　　　　　　　*Thanks For Watching!!*
 ![FB_IMG_15917053785165117](https://user-images.githubusercontent.com/79139059/110002974-86588e80-7d48-11eb-9525-e11326909389.jpg)
