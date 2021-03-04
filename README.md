@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=
+
 Here are some ideas to get you started:
 
 🔭 I’m currently working on …`
@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 😄 Pronouns: …
 
 ⚡ Fun fact: …
-&theme=outrun&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zamxyz&theme=outrun&show_icons=true)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=crack&theme=dark)](https://github.com/zamxyz)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=crack&theme=shades-of-purple)]
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zamxyz)](https://github.com/zamxyz)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamxyz)](https://github.com/zamxyz)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zamxyz&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamxyz&theme=midnight-putple)]
