@@ -1,5 +1,8 @@
-
-Here are some ideas to get you started:
+─────█─▄▀█──█▀▄─█──
+────▐▌──────────▐▌──
+────█▌▀▄──▄▄──▄▀▐█──
+───▐██──▀▀──▀▀──██▌──
+──▄████▄──▐▌──▄████▄─
 
 🔭 I’m currently working on …`
 
@@ -18,8 +21,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: …
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zamxyz&theme=outrun&show_icons=true)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=zamxyz&theme=shades-of-purple)
-
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=Acmi&theme=shades-of-purple)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zamxyz&theme=vision-friendly-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamxyz&theme=midnight-putple)
+/github/followers/:user?zamxyz=Follow
