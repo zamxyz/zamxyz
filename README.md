@@ -1,4 +1,4 @@
-#      ♛WELCOME TO MY GITHUB♛
+**      ♛WELCOME TO MY GITHUB♛**
 
 ![FB_IMG_15917053245778149.jpg](https://user-images.githubusercontent.com/79139059/FB_IMG_15917053245778149.jpg)
 
@@ -8,7 +8,7 @@
 ║╚═╝║║║─╔╗║║║║║║─║║─
 ║╔═╗║║╚═╝║║║║║║║╔╣─╗
 ╚╝─╚╝╚═══╝╚╝╚╝╚╝╚══╝
-# are some ideas to get you
+** are some ideas to get you**
 
 
 🌱 I’m currently learning …
