@@ -6,11 +6,20 @@
 ║╚═╝║║║─╔╗║║║║║║─║║─
 ║╔═╗║║╚═╝║║║║║║║╔╣─╗
 ╚╝─╚╝╚═══╝╚╝╚╝╚╝╚══╝
+# Information
 
+🤔 I’m looking for help with …
 
+💬 Ask me about …
 
-#    GIthub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zamxyz&theme=outrun&show_icons=true)
+📫 How to reach me: …
+
+😄 Pronouns: …
+
+⚡ Fun fact: …
+
+#    Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zamxyz&theme=outrun&show_icons=true)
 #    My Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=Acmi&theme=vision-friendly-dark)](https://github.com/zamxyz/Acmi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=crack&theme=vision-friendly-dark)](https://github.com/zamxyz/crack)
