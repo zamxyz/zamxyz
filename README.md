@@ -1,6 +1,6 @@
 #      ♛WELCOME TO MY GITHUB♛
 
-![pict zamuel](https://user-images.githubusercontent.com/79139059/FB_IMG_15917053245778149.jpg)
+![FB_IMG_15917053245778149.jpg](https://user-images.githubusercontent.com/79139059/FB_IMG_15917053245778149.jpg)
 
 ╔═══╗╔═══╗╔═╗╔═╗╔══╗
 ║╔═╗║║╔═╗║║║╚╝║║╚╣─╝
