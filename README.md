@@ -1,7 +1,7 @@
-─────█─▄▀█──█▀▄─█──
-────▐▌──────────▐▌──
-────█▌▀▄──▄▄──▄▀▐█──
-───▐██──▀▀──▀▀──██▌──
+──█─▄▀█──█▀▄─█──
+──▐▌──────────▐▌──
+──█▌▀▄──▄▄──▄▀▐█──
+──▐██──▀▀──▀▀──██▌──
 ──▄████▄──▐▌──▄████▄─
 
 🔭 I’m currently working on …`
@@ -22,6 +22,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zamxyz&theme=outrun&show_icons=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=Acmi&theme=shades-of-purple)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=crack&theme=shades-of-purple)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=terkey&theme=shades-of-purple)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=encrypt&theme=shades-of-purple)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zamxyz&theme=vision-friendly-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamxyz&theme=midnight-putple)
 /github/followers/:user?zamxyz=Follow
