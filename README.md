@@ -19,12 +19,9 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zamxyz&theme=outrun&show_icons=true)
-# Markdown Cheat Sheet
-
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
-
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zamuel)](https://github.com/zamxyz/crack)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamxyz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamxyz&exclude_repo=Acmi,terkey.github.io)](https://github.com/anuraghazra/github-readme-stats)
 ## Basic Syntax
 
 These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
