@@ -30,6 +30,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamxyz&theme=shades-of-purple)
 
 ![FB_IMG_15917053785165117](https://user-images.githubusercontent.com/79139059/110002974-86588e80-7d48-11eb-9525-e11326909389.jpg)
-　　　　　**_*Thanks For Watching!!*_**
+　　　　　　**_*Thanks For Watching!!*_**
 
 　　　　　**_*See you....*_**
