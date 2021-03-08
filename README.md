@@ -22,7 +22,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zamxyz&theme=outrun&show_icons=true)
 #    *My Repositories*
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=zain&theme=vision-friendly-dark)](https://github.com/zamxyz/zain)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=mtzv&theme=vision-friendly-dark)](https://github.com/zamxyz/mtzv)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=crack&theme=vision-friendly-dark)](https://github.com/zamxyz/crack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=terkey&theme=vision-friendly-dark)](https://github.com/zamxyz/terkey)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=encrypt&theme=vision-friendly-dark)](https://github.com/zamxyz/encrypt)
@@ -32,10 +31,3 @@
 　　　　　**_*Thanks For Watching!!*_**
 ![FB_IMG_15917053785165117](https://user-images.githubusercontent.com/79139059/110002974-86588e80-7d48-11eb-9525-e11326909389.jpg)
 　　　　　**_*See you....*_**
-
-
-/github/followers/:user?label=Follow
-/github/forks/:user/:repo?label=Fork
-/github/stars/:user/:repo?style=social
-/tokei/lines/:provider/:user/:repo
-/gitlab/pipeline/:user/:repo/:branch+
