@@ -32,3 +32,10 @@
 　　　　　**_*Thanks For Watching!!*_**
 ![FB_IMG_15917053785165117](https://user-images.githubusercontent.com/79139059/110002974-86588e80-7d48-11eb-9525-e11326909389.jpg)
 　　　　　**_*See you....*_**
+
+
+/github/followers/:user?label=Follow
+/github/forks/:user/:repo?label=Fork
+/github/stars/:user/:repo?style=social
+/tokei/lines/:provider/:user/:repo
+/gitlab/pipeline/:user/:repo/:branch+
