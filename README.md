@@ -2,9 +2,9 @@
 　　　　　 　　　 　 **_*⚘ MY TEAM ⚘*_**
 ![FB_IMG_15917058795814626](https://user-images.githubusercontent.com/79139059/110004846-72ae2780-7d4a-11eb-9c31-c2555f1a3d68.jpg)
 
-　　**_*Anonymous Cyber Muslim Idnonesia*_**
+　　　　　　**_*Anonymous Cyber Muslim Idnonesia*_**
 
-　　　　　　**Sow off defacer**
+　　　　　　　　　　**Sow off defacer**
 
 **♛ Http://losangelesdreamrentals.com/userfile/zamuel.html ♛**
 
