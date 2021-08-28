@@ -25,6 +25,8 @@
 #   *Github Stats*
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zamxyz&theme=outrun&show_icons=true)
 #    *My Repositories*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=PBB&theme=vision-friendly-dark)](https://github.com/zamxyz/PBB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=zxr&theme=vision-friendly-dark)](https://github.com/zamxyz/zxr)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=zml&theme=vision-friendly-dark)](https://github.com/zamxyz/zml)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=terkey&theme=vision-friendly-dark)](https://github.com/zamxyz/terkey)
