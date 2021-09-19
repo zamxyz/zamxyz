@@ -6,7 +6,7 @@
 
 　　　　　　　　**Sow off defacer**
 
-**♛ Http://losangelesdreamrentals.com/userfile/zamuel.html ♛**
+**♛ file:///storage/emulated/0/zamxyz.html ♛**
 
 #        *Ideas to get you*
 
