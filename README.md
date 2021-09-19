@@ -4,10 +4,6 @@
 
 　　　　**_*Anonymous Cyber Muslim Idnonesia*_**
 
-　　　　　　　　**Sow off defacer**
-
-**♛ file:///storage/emulated/0/zamxyz.html ♛**
-
 #        *Ideas to get you*
 
 🌱 I’m currently learning …
