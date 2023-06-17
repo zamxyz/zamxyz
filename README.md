@@ -22,7 +22,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zamxyz&theme=outrun&show_icons=true)
 #    *My Repositories*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=hoshinova&theme=vision-friendly-dark)](https://github.com/zamxyz/hoshinova)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=hoshinova&theme=vision-friendly-dark)](https://github.com/zamxyz/zmnk)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=sans&theme=vision-friendly-dark)](https://github.com/zamxyz/sans)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=PBB&theme=vision-friendly-dark)](https://github.com/zamxyz/PBB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zamxyz&repo=zxr&theme=vision-friendly-dark)](https://github.com/zamxyz/zxr)
