@@ -1,13 +1,13 @@
 °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
 <h1 align="center">♛WELCOME TO MY GITHUB♛</h1>
 
-              .. ⚘ EVANESCENCE'S TEAM ⚘.. 
+                    .. ⚘ EVANESCENCE'S TEAM ⚘.. 
 
 <h1 align="center">  𝐙𝐀𝐌𝐗𝐘𝐙 𝐗𝐃 ⸙ </h1>
 
 ![20220923_011304](https://github.com/zamxyz/zamxyz/assets/79139059/26e399d1-7da1-4e9b-b046-c48f1a74a984)
 
-         .. ⚘ ANONYMOUS CYBER MUSLIM INDONESIA ⚘.. 
+               .. ⚘ ANONYMOUS CYBER MUSLIM INDONESIA ⚘.. 
 
 #        *Ideas to get you*
 
