@@ -1,6 +1,7 @@
 # **_*♛WELCOME TO MY GITHUB♛*_**
 　　　　　 　　　 　 **_*⚘ MY TEAM ⚘*_**
-![FB_IMG_15917058795814626](https://user-images.githubusercontent.com/79139059/110004846-72ae2780-7d4a-11eb-9c31-c2555f1a3d68.jpg)
+
+![20220923_011304](https://github.com/zamxyz/zamxyz/assets/79139059/26e399d1-7da1-4e9b-b046-c48f1a74a984)
 
 　　　　**_*Anonymous Cyber Muslim Idnonesia*_**
 
