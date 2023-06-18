@@ -1,9 +1,13 @@
-# **_*♛WELCOME TO MY GITHUB♛*_**
-　　　　　 　　　 　 **_*⚘ MY TEAM ⚘*_**
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+<h1 align="center">♛WELCOME TO MY GITHUB♛</h1>
+
+              .. ⚘ EVANESCENCE'S TEAM ⚘.. 
+
+<h1 align="center">  𝐙𝐀𝐌𝐗𝐘𝐙 𝐗𝐃 ⸙ </h1>
 
 ![20220923_011304](https://github.com/zamxyz/zamxyz/assets/79139059/26e399d1-7da1-4e9b-b046-c48f1a74a984)
 
-　　　　**_*Anonymous Cyber Muslim Idnonesia*_**
+         .. ⚘ ANONYMOUS CYBER MUSLIM INDONESIA ⚘.. 
 
 #        *Ideas to get you*
 
@@ -32,6 +36,10 @@
 
 # *Languages*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamxyz&theme=shades-of-purple)
-　　　　　**_*Thanks For Watching!!*_**
+
+# *Termite Arithmetic*
 ![FB_IMG_15917053785165117](https://user-images.githubusercontent.com/79139059/110002974-86588e80-7d48-11eb-9525-e11326909389.jpg)
-　　　　　**_*See you....*_**
+
+        ⚘ Oficial Anonymous Cyber Muslim Indonesia ⚘ 
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
